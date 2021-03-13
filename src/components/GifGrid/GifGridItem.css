@@ -1,0 +1,17 @@
+.card {
+    align-content: center;
+    border: 1px solid grey;
+    border-radius: 6px;
+    margin: 10px 5px;
+    overflow: hidden;
+}
+
+.card p {
+    padding: 5px;
+    text-align: center;
+}
+
+.card img{
+    text-align: center;
+    max-height: 170px;
+}
