@@ -1,6 +1,6 @@
 # Gifs react app
 
-[![Twitter](https://raw.githubusercontent.com/username/username/master/images/twitter.png)](Twitter link here)
+[![Gifs](https://github.com/Andgvo/gifs-app/blob/main/assets/gifs-app.png)](Screenshot)
 
 ## Getting Started with Create React App
 
