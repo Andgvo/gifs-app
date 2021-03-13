@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Gifs react app
+
+[![Twitter](https://raw.githubusercontent.com/username/username/master/images/twitter.png)](Twitter link here)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
